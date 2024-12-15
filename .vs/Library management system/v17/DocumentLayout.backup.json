@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\OOP Projects\\Library management system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B832A75C-6024-4714-BA0F-CF6341DD19CE}|Library management system\\Library management system.csproj|e:\\oop projects\\library management system\\library management system\\entities\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B832A75C-6024-4714-BA0F-CF6341DD19CE}|Library management system\\Library management system.csproj|solutionrelative:library management system\\entities\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B832A75C-6024-4714-BA0F-CF6341DD19CE}|Library management system\\Library management system.csproj|e:\\oop projects\\library management system\\library management system\\screens\\libfullscreens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B832A75C-6024-4714-BA0F-CF6341DD19CE}|Library management system\\Library management system.csproj|solutionrelative:library management system\\screens\\libfullscreens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B832A75C-6024-4714-BA0F-CF6341DD19CE}|Library management system\\Library management system.csproj|e:\\oop projects\\library management system\\library management system\\screens\\welcomehead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B832A75C-6024-4714-BA0F-CF6341DD19CE}|Library management system\\Library management system.csproj|solutionrelative:library management system\\screens\\welcomehead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B832A75C-6024-4714-BA0F-CF6341DD19CE}|Library management system\\Library management system.csproj|e:\\oop projects\\library management system\\library management system\\entities\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B832A75C-6024-4714-BA0F-CF6341DD19CE}|Library management system\\Library management system.csproj|solutionrelative:library management system\\entities\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B832A75C-6024-4714-BA0F-CF6341DD19CE}|Library management system\\Library management system.csproj|e:\\oop projects\\library management system\\library management system\\screens\\userscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B832A75C-6024-4714-BA0F-CF6341DD19CE}|Library management system\\Library management system.csproj|solutionrelative:library management system\\screens\\userscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B832A75C-6024-4714-BA0F-CF6341DD19CE}|Library management system\\Library management system.csproj|e:\\oop projects\\library management system\\library management system\\screens\\librarianscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B832A75C-6024-4714-BA0F-CF6341DD19CE}|Library management system\\Library management system.csproj|solutionrelative:library management system\\screens\\librarianscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B832A75C-6024-4714-BA0F-CF6341DD19CE}|Library management system\\Library management system.csproj|e:\\oop projects\\library management system\\library management system\\screens\\mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B832A75C-6024-4714-BA0F-CF6341DD19CE}|Library management system\\Library management system.csproj|solutionrelative:library management system\\screens\\mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B832A75C-6024-4714-BA0F-CF6341DD19CE}|Library management system\\Library management system.csproj|e:\\oop projects\\library management system\\library management system\\entities\\libraryuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B832A75C-6024-4714-BA0F-CF6341DD19CE}|Library management system\\Library management system.csproj|solutionrelative:library management system\\entities\\libraryuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B832A75C-6024-4714-BA0F-CF6341DD19CE}|Library management system\\Library management system.csproj|e:\\oop projects\\library management system\\library management system\\entities\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B832A75C-6024-4714-BA0F-CF6341DD19CE}|Library management system\\Library management system.csproj|solutionrelative:library management system\\entities\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B832A75C-6024-4714-BA0F-CF6341DD19CE}|Library management system\\Library management system.csproj|e:\\oop projects\\library management system\\library management system\\entities\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B832A75C-6024-4714-BA0F-CF6341DD19CE}|Library management system\\Library management system.csproj|solutionrelative:library management system\\entities\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B832A75C-6024-4714-BA0F-CF6341DD19CE}|Library management system\\Library management system.csproj|e:\\oop projects\\library management system\\library management system\\entities\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B832A75C-6024-4714-BA0F-CF6341DD19CE}|Library management system\\Library management system.csproj|solutionrelative:library management system\\entities\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Books.cs",
+              "DocumentMoniker": "E:\\OOP Projects\\Library management system\\Library management system\\Entities\\Books.cs",
+              "RelativeDocumentMoniker": "Library management system\\Entities\\Books.cs",
+              "ToolTip": "E:\\OOP Projects\\Library management system\\Library management system\\Entities\\Books.cs",
+              "RelativeToolTip": "Library management system\\Entities\\Books.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:03:49.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WelcomeHead.cs",
+              "DocumentMoniker": "E:\\OOP Projects\\Library management system\\Library management system\\Screens\\WelcomeHead.cs",
+              "RelativeDocumentMoniker": "Library management system\\Screens\\WelcomeHead.cs",
+              "ToolTip": "E:\\OOP Projects\\Library management system\\Library management system\\Screens\\WelcomeHead.cs",
+              "RelativeToolTip": "Library management system\\Screens\\WelcomeHead.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwDkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:28:42.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserScreen.cs",
+              "DocumentMoniker": "E:\\OOP Projects\\Library management system\\Library management system\\Screens\\UserScreen.cs",
+              "RelativeDocumentMoniker": "Library management system\\Screens\\UserScreen.cs",
+              "ToolTip": "E:\\OOP Projects\\Library management system\\Library management system\\Screens\\UserScreen.cs",
+              "RelativeToolTip": "Library management system\\Screens\\UserScreen.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:28:34.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibrarianScreen.cs",
+              "DocumentMoniker": "E:\\OOP Projects\\Library management system\\Library management system\\Screens\\LibrarianScreen.cs",
+              "RelativeDocumentMoniker": "Library management system\\Screens\\LibrarianScreen.cs",
+              "ToolTip": "E:\\OOP Projects\\Library management system\\Library management system\\Screens\\LibrarianScreen.cs",
+              "RelativeToolTip": "Library management system\\Screens\\LibrarianScreen.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAkwHAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:27:16.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibFullScreens.cs",
+              "DocumentMoniker": "E:\\OOP Projects\\Library management system\\Library management system\\Screens\\LibFullScreens.cs",
+              "RelativeDocumentMoniker": "Library management system\\Screens\\LibFullScreens.cs",
+              "ToolTip": "E:\\OOP Projects\\Library management system\\Library management system\\Screens\\LibFullScreens.cs",
+              "RelativeToolTip": "Library management system\\Screens\\LibFullScreens.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAD4vyAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:27:08.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Library.cs",
+              "DocumentMoniker": "E:\\OOP Projects\\Library management system\\Library management system\\Entities\\Library.cs",
+              "RelativeDocumentMoniker": "Library management system\\Entities\\Library.cs",
+              "ToolTip": "E:\\OOP Projects\\Library management system\\Library management system\\Entities\\Library.cs",
+              "RelativeToolTip": "Library management system\\Entities\\Library.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAEwJUAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:26:40.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainScreen.cs",
+              "DocumentMoniker": "E:\\OOP Projects\\Library management system\\Library management system\\Screens\\MainScreen.cs",
+              "RelativeDocumentMoniker": "Library management system\\Screens\\MainScreen.cs",
+              "ToolTip": "E:\\OOP Projects\\Library management system\\Library management system\\Screens\\MainScreen.cs",
+              "RelativeToolTip": "Library management system\\Screens\\MainScreen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:28:27.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LibraryUser.cs",
+              "DocumentMoniker": "E:\\OOP Projects\\Library management system\\Library management system\\Entities\\LibraryUser.cs",
+              "RelativeDocumentMoniker": "Library management system\\Entities\\LibraryUser.cs",
+              "ToolTip": "E:\\OOP Projects\\Library management system\\Library management system\\Entities\\LibraryUser.cs",
+              "RelativeToolTip": "Library management system\\Entities\\LibraryUser.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:26:59.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LibraryCard.cs",
+              "DocumentMoniker": "E:\\OOP Projects\\Library management system\\Library management system\\Entities\\LibraryCard.cs",
+              "RelativeDocumentMoniker": "Library management system\\Entities\\LibraryCard.cs",
+              "ToolTip": "E:\\OOP Projects\\Library management system\\Library management system\\Entities\\LibraryCard.cs",
+              "RelativeToolTip": "Library management system\\Entities\\LibraryCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:26:49.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Librarian.cs",
+              "DocumentMoniker": "E:\\OOP Projects\\Library management system\\Library management system\\Entities\\Librarian.cs",
+              "RelativeDocumentMoniker": "Library management system\\Entities\\Librarian.cs",
+              "ToolTip": "E:\\OOP Projects\\Library management system\\Library management system\\Entities\\Librarian.cs",
+              "RelativeToolTip": "Library management system\\Entities\\Librarian.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:26:30.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Iuser.cs",
+              "DocumentMoniker": "E:\\OOP Projects\\Library management system\\Library management system\\Entities\\Iuser.cs",
+              "RelativeDocumentMoniker": "Library management system\\Entities\\Iuser.cs",
+              "ToolTip": "E:\\OOP Projects\\Library management system\\Library management system\\Entities\\Iuser.cs",
+              "RelativeToolTip": "Library management system\\Entities\\Iuser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:26:20.069Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
